@@ -1,2 +1,2 @@
-# GNU/Linux Gang
+# ArkTech
 Welcome to our Organisation Page
